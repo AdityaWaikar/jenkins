@@ -4,6 +4,6 @@ def firstcall() {
 }
 
 // Method 2: Named method (must be called with the method name)
-def withName(String name) {
-    echo "Hello, ${name}!"
-}
+//def withName(String name) {
+  //  echo "Hello, ${name}!"
+//}
